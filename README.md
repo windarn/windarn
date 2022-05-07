@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at (My Github Profile)
 
-- 💬 Ask me about **Machine Learning, Python, R, Web Scraping**
+- 💬 Ask me about **Python, R, Machine Learning, Web Scraping**
 
 - 📫 How to reach me **dguaima@gmail.com**
 
